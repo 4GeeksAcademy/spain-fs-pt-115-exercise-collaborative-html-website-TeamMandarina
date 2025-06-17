@@ -1,24 +1,15 @@
 body{
     background: white;
-<<<<<<< HEAD
-}
-
-
-.card-name {
-    color: royalblue
-}
-
-form {
-    font-size: 14px;
-}
-
-* {
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-
 }
 
 p {
-    font-size: 20px;
-=======
->>>>>>> d3df662394fddecad6e0adf151ea83a1ecb5cd1b
+    font-weight: 14px;
+}
+
+* {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.card-name {
+    color: royalblue;
 }
