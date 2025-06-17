@@ -1,3 +1,24 @@
-body{
+body {
     background: white;
 }
+
+.tagline {
+    background-image: url("/website/assets/img/bg.jpg");
+    height: 50rem;
+    background-position: bottom;
+    text-align: center;
+    padding-top: 2rem;
+    padding-inline: 1rem;
+}
+
+.tagline h1 {
+    font-size: 8rem;
+    background-color: white;
+}
+
+.tagline h3 {
+    font-size: 5rem;
+    background-color: white;
+    margin-top: 2rem;
+}
+
