@@ -2,7 +2,6 @@ body {
     background: white;
 }
 
-
 .tagline {
     background-image: url("/website/assets/img/bg.jpg");
     height: 50rem;
@@ -22,3 +21,4 @@ body {
     background-color: white;
     margin-top: 2rem;
 }
+
