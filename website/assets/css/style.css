@@ -2,6 +2,19 @@ body {
     background: white;
 }
 
+
+p {
+    font-weight: 14px;
+}
+
+* {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.card-name {
+    color: royalblue;
+}
+
 .tagline {
     background-image: url("/website/assets/img/bg.jpg");
     height: 50rem;
@@ -21,4 +34,5 @@ body {
     background-color: white;
     margin-top: 2rem;
 }
+
 
