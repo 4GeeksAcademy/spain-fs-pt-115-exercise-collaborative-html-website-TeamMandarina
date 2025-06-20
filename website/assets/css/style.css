@@ -5,20 +5,24 @@ body {
 .tagline {
     background-image: url("/website/assets/img/bg.jpg");
     height: 50rem;
-    background-position: bottom;
+    background-size: cover;
     text-align: center;
     padding-top: 2rem;
     padding-inline: 1rem;
+    
+    
 }
 
 .tagline h1 {
-    font-size: 8rem;
+    font-size: 8em;
     background-color: white;
+    
 }
 
 .tagline h3 {
-    font-size: 5rem;
+    font-size: 5em;
     background-color: white;
-    margin-top: 2rem;
+    margin-top: 2em;
+    
 }
 
