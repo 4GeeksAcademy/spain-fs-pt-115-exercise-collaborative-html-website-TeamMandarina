@@ -4,7 +4,7 @@ body {
 
 .tagline {
     background-image: url("/website/assets/img/bg.jpg");
-    height: 50rem;
+    height: 60rem;
     background-size: cover;
     text-align: center;
     padding-top: 2rem;
@@ -14,15 +14,37 @@ body {
 }
 
 .tagline h1 {
-    font-size: 8em;
+    font-size: 8rem;
     background-color: white;
     
 }
 
 .tagline h3 {
-    font-size: 5em;
+    font-size: 5rem;
     background-color: white;
-    margin-top: 2em;
+    margin-top: 1rem;
     
+}
+
+
+@media (max-width: 576px) {
+  .tagline h1 {
+    font-size: 3rem;
+  }
+
+  .tagline h3 {
+    font-size: 2rem;
+  }
+}
+
+
+@media (min-width: 577px) and (max-width: 991px) {
+  .tagline h1 {
+    font-size: 5rem;
+  }
+
+  .tagline h3 {
+    font-size: 3rem;
+  }
 }
 
